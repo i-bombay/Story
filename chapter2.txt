@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 It was the time of excess, it was the time of fruality.
+=======
+Jump over the lazy alien.
+>>>>>>> alien-plot
